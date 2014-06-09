@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'show-gitlog/version'
+require 'showlog/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'show-gitlog'
-  spec.version       = ShowGitlog::VERSION
+  spec.name          = 'showlog'
+  spec.version       = Showlog::VERSION
   spec.authors       = ['foostan']
   spec.email         = ['foostan27@gmail.com']
-  spec.description   = %q{Show git commit logs}
-  spec.summary       = %q{Show git commit logs}
-  spec.homepage      = 'https://github.com/foostan/show-gitlog'
+  spec.description   = %q{Show development logs}
+  spec.summary       = %q{Show development logs}
+  spec.homepage      = 'https://github.com/foostan/showlog'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)

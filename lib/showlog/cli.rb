@@ -1,6 +1,6 @@
 require 'thor'
 
-module ShowGitlog
+module Showlog
   class Cli < Thor
   end
 end

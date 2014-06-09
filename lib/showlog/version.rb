@@ -1,3 +1,3 @@
-module ShowGitlog
+module Showlog
   VERSION = "0.0.1"
 end
