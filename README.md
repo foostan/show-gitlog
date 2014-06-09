@@ -1,8 +1,6 @@
 # Showlog
 [![Build Status](https://travis-ci.org/foostan/showlog.svg?branch=master)](https://travis-ci.org/foostan/showlog) [![Coverage Status](https://coveralls.io/repos/foostan/showlog/badge.png)](https://coveralls.io/r/foostan/showlog) [![Code Climate](https://codeclimate.com/github/foostan/showlog.png)](https://codeclimate.com/github/foostan/showlog)
 
-TODO: Write a gem description
-
 ## Installation
 
 Add this line to your application's Gemfile:
