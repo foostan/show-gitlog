@@ -1,4 +1,5 @@
 # ShowGitlog
+[![Build Status](https://travis-ci.org/foostan/show-gitlog.svg?branch=master)](https://travis-ci.org/foostan/show-gitlog) [![Coverage Status](https://coveralls.io/repos/foostan/show-gitlog/badge.png)](https://coveralls.io/r/foostan/show-gitlog) [![Code Climate](https://codeclimate.com/github/foostan/show-gitlog.png)](https://codeclimate.com/github/foostan/show-gitlog)
 
 TODO: Write a gem description
 
